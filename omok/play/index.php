@@ -1,5 +1,4 @@
-//Gregorio Sigala
-//Isabella Gaytan
+
 <?php
     require_once('Move.php');
     require_once('Board.php');

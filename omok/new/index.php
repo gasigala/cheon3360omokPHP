@@ -1,5 +1,4 @@
-//Gregorio Sigala
-//Isabella Gaytan
+
 <?php
 require_once("../play/Board.php");
 
