@@ -1,4 +1,6 @@
 <?php
+//Gregorio Sigala
+//Isabella Gaytan
 class GameInfo
 {
     public $size;
